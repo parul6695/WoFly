@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jan 18 19:52:30 2020
-
-@author: xinyuehu
 """
 
 """import requests
